@@ -56,7 +56,7 @@ ul#navtop {
 
 /*Content Styles*/
 
-//#contentcolumn {font-size: 1em;}
+/*#contentcolumn {font-size: 1em;}*/
 
 a,a:active,a:visited {
 	outline:none;
@@ -75,13 +75,13 @@ li a {
 h1,h2,h3 {
 	font-size: 1.3em;
 	margin: 0;
-	//color: #626258;
+	/*color: #626258;*/
 }
 
 h4,h5,h6 {
 	font-size: 1.1em;
 	margin: 0;
-	//color: #626258;
+	/*color: #626258;*/
 }
 
 .float {
@@ -91,19 +91,19 @@ h4,h5,h6 {
 .list {
 	margin: 10px 0 10px 10px;
 	padding-left: 20px;
-	//list-style: none;
+	/*list-style: none;*/
 	white-space: nowrap;}
 
 .list li {
-	//margin-left: 20px;
+	/*margin-left: 20px;*/
 	padding-left: 0px;
-	//background: url(images/list.gif) no-repeat 0 7px;
+	/*background: url(images/list.gif) no-repeat 0 7px;*/
 }
 
 div.hr {
 	margin: 20px 0 20px 0;
 	height: 10px;
-	//background: #fff url(images/hr.gif);
+	/*background: #fff url(images/hr.gif);*/
 }
 
 div.hr hr {display: none;}
