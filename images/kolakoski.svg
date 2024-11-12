@@ -1,0 +1,194 @@
+
+<svg width="9626" height="500" version="1.1" xmlns="http://www.w3.org/2000/svg" xml:space="preserve">
+     <desc>Kolakoski sequence generation visualization</desc>
+     <title>Kolakoski sequence: 1 2 0</title>
+<text x="50" y="80" textLength="4800" style="font: 10px courier; fill: red">
+  1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2   0   1   2
+</text>
+<text style="font: bold 20px courier; fill: black">
+<tspan x="50" y="100" textLength="4800">
+1 2 2 0 0 0 0 0 2 0 0 1 0 1 2 1 0 1 1 1 0 1 0 1 2 0 0 1 0 1 1 0 1 1 1 2 1 0 1 2 0 1 2 0 0 1 1 0 1 0 1 1 1 1 1 1 2 2 0 1 1 0 1 2 0 0 2 0 0 2 2 1 2 0 1 1 1 2 0 1 2 0 2 0 1 1 1 2 0 0 1 1 1 1 1 1 0 1 1 2 0 0 1 1 2 2 0 0 2 0 0 2 0 1 2 1 2 2 2 2 0 1 2 0 1 1 1 1 0 1 2 0 0 2 1 1 1 1 2 0 0 2 0 1 1 1 2 0 1 0 2 0 0 2 1 2 0 1 1 2 0 0 1 1 1 1 0 1 0 1 2 0 1 0 1 1 1 2 1 2 2 0 0 2 0 1 1 0 1 1 1 1 1 0 1 2 0 0 1 1
+</tspan>
+<tspan x="50" y="300" textLength="4800">
+1 2 2 0 0 0 0 0 2 0 0 1 0 1 2 1 0 1 1 1 0 1 0 1 2 0 0 1 0 1 1 0 1 1 1 2 1 0 1 2 0 1 2 0 0 1 1 0 1 0 1 1 1 1 1 1 2 2 0 1 1 0 1 2 0 0 2 0 0 2 2 1 2 0 1 1 1 2 0 1 2 0 2 0 1 1 1 2 0 0 1 1 1 1 1 1 0 1 1 2 0 0 1 1 2 2 0 0 2 0 0 2 0 1 2 1 2 2 2 2 0 1 2 0 1 1 1 1 0 1 2 0 0 2 1 1 1 1 2 0 0 2 0 1 1 1 2 0 1 0 2 0 0 2 1 2 0 1 1 2 0 0 1 1 1 1 0 1 0 1 2 0 1 0 1 1 1 2
+</tspan>
+  </text>
+<line x1="68" y1="105" x2="68" y2="282" style="stroke: red; stroke-width:3"><title>0</title></line>
+<line x1="92" y1="105" x2="104" y2="282" style="stroke: green; stroke-width:3"><title>1</title></line>
+<polyline points="84,290 84,282 124,282 124,290" style="fill:none; stroke: green; stroke-width:1" />
+<line x1="116" y1="105" x2="152" y2="282" style="stroke: blue; stroke-width:3"><title>2</title></line>
+<polyline points="132,290 132,282 172,282 172,290" style="fill:none; stroke: blue; stroke-width:1" />
+<line x1="260" y1="105" x2="200" y2="282" style="stroke: blue; stroke-width:3"><title>-2</title></line>
+<polyline points="180,290 180,282 220,282 220,290" style="fill:none; stroke: blue; stroke-width:1" />
+<line x1="332" y1="105" x2="236" y2="282" style="stroke: blue; stroke-width:3"><title>-4</title></line>
+<line x1="380" y1="105" x2="260" y2="282" style="stroke: green; stroke-width:3"><title>-5</title></line>
+<line x1="404" y1="105" x2="296" y2="282" style="stroke: blue; stroke-width:3"><title>-4</title></line>
+<polyline points="276,290 276,282 316,282 316,290" style="fill:none; stroke: blue; stroke-width:1" />
+<line x1="428" y1="105" x2="332" y2="282" style="stroke: red; stroke-width:3"><title>-4</title></line>
+<line x1="476" y1="105" x2="356" y2="282" style="stroke: blue; stroke-width:3"><title>-5</title></line>
+<line x1="500" y1="105" x2="380" y2="282" style="stroke: red; stroke-width:3"><title>-5</title></line>
+<line x1="524" y1="105" x2="404" y2="282" style="stroke: green; stroke-width:3"><title>-5</title></line>
+<line x1="572" y1="105" x2="428" y2="282" style="stroke: red; stroke-width:3"><title>-6</title></line>
+<line x1="620" y1="105" x2="452" y2="282" style="stroke: blue; stroke-width:3"><title>-7</title></line>
+<line x1="644" y1="105" x2="488" y2="282" style="stroke: red; stroke-width:3"><title>-6</title></line>
+<polyline points="468,290 468,282 508,282 508,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="716" y1="105" x2="524" y2="282" style="stroke: red; stroke-width:3"><title>-8</title></line>
+<line x1="764" y1="105" x2="548" y2="282" style="stroke: blue; stroke-width:3"><title>-9</title></line>
+<line x1="788" y1="105" x2="572" y2="282" style="stroke: red; stroke-width:3"><title>-9</title></line>
+<line x1="836" y1="105" x2="596" y2="282" style="stroke: blue; stroke-width:3"><title>-10</title></line>
+<line x1="860" y1="105" x2="620" y2="282" style="stroke: red; stroke-width:3"><title>-10</title></line>
+<line x1="884" y1="105" x2="644" y2="282" style="stroke: green; stroke-width:3"><title>-10</title></line>
+<line x1="908" y1="105" x2="680" y2="282" style="stroke: blue; stroke-width:3"><title>-9</title></line>
+<polyline points="660,290 660,282 700,282 700,290" style="fill:none; stroke: blue; stroke-width:1" />
+<line x1="932" y1="105" x2="716" y2="282" style="stroke: red; stroke-width:3"><title>-9</title></line>
+<line x1="980" y1="105" x2="740" y2="282" style="stroke: blue; stroke-width:3"><title>-10</title></line>
+<line x1="1004" y1="105" x2="776" y2="282" style="stroke: red; stroke-width:3"><title>-9</title></line>
+<polyline points="756,290 756,282 796,282 796,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="1052" y1="105" x2="812" y2="282" style="stroke: blue; stroke-width:3"><title>-10</title></line>
+<line x1="1076" y1="105" x2="848" y2="282" style="stroke: red; stroke-width:3"><title>-9</title></line>
+<polyline points="828,290 828,282 868,282 868,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="1148" y1="105" x2="884" y2="282" style="stroke: red; stroke-width:3"><title>-11</title></line>
+<line x1="1172" y1="105" x2="908" y2="282" style="stroke: green; stroke-width:3"><title>-11</title></line>
+<line x1="1220" y1="105" x2="932" y2="282" style="stroke: red; stroke-width:3"><title>-12</title></line>
+<line x1="1268" y1="105" x2="956" y2="282" style="stroke: blue; stroke-width:3"><title>-13</title></line>
+<line x1="1292" y1="105" x2="980" y2="282" style="stroke: red; stroke-width:3"><title>-13</title></line>
+<line x1="1316" y1="105" x2="1004" y2="282" style="stroke: green; stroke-width:3"><title>-13</title></line>
+<line x1="1340" y1="105" x2="1028" y2="282" style="stroke: blue; stroke-width:3"><title>-13</title></line>
+<line x1="1364" y1="105" x2="1052" y2="282" style="stroke: red; stroke-width:3"><title>-13</title></line>
+<line x1="1388" y1="105" x2="1076" y2="282" style="stroke: green; stroke-width:3"><title>-13</title></line>
+<line x1="1412" y1="105" x2="1112" y2="282" style="stroke: blue; stroke-width:3"><title>-12</title></line>
+<polyline points="1092,290 1092,282 1132,282 1132,290" style="fill:none; stroke: blue; stroke-width:1" />
+<line x1="1436" y1="105" x2="1160" y2="282" style="stroke: red; stroke-width:3"><title>-11</title></line>
+<polyline points="1140,290 1140,282 1180,282 1180,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="1484" y1="105" x2="1196" y2="282" style="stroke: blue; stroke-width:3"><title>-12</title></line>
+<line x1="1508" y1="105" x2="1220" y2="282" style="stroke: red; stroke-width:3"><title>-12</title></line>
+<line x1="1556" y1="105" x2="1244" y2="282" style="stroke: blue; stroke-width:3"><title>-13</title></line>
+<line x1="1580" y1="105" x2="1280" y2="282" style="stroke: red; stroke-width:3"><title>-12</title></line>
+<polyline points="1260,290 1260,282 1300,282 1300,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="1652" y1="105" x2="1328" y2="282" style="stroke: red; stroke-width:3"><title>-13</title></line>
+<polyline points="1308,290 1308,282 1348,282 1348,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="1724" y1="105" x2="1376" y2="282" style="stroke: red; stroke-width:3"><title>-14</title></line>
+<polyline points="1356,290 1356,282 1396,282 1396,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="1748" y1="105" x2="1424" y2="282" style="stroke: green; stroke-width:3"><title>-13</title></line>
+<polyline points="1404,290 1404,282 1444,282 1444,290" style="fill:none; stroke: green; stroke-width:1" />
+<line x1="1772" y1="105" x2="1460" y2="282" style="stroke: blue; stroke-width:3"><title>-13</title></line>
+<line x1="1796" y1="105" x2="1496" y2="282" style="stroke: red; stroke-width:3"><title>-12</title></line>
+<polyline points="1476,290 1476,282 1516,282 1516,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="1844" y1="105" x2="1532" y2="282" style="stroke: blue; stroke-width:3"><title>-13</title></line>
+<line x1="1868" y1="105" x2="1556" y2="282" style="stroke: red; stroke-width:3"><title>-13</title></line>
+<line x1="1892" y1="105" x2="1580" y2="282" style="stroke: green; stroke-width:3"><title>-13</title></line>
+<line x1="1916" y1="105" x2="1616" y2="282" style="stroke: blue; stroke-width:3"><title>-12</title></line>
+<polyline points="1596,290 1596,282 1636,282 1636,290" style="fill:none; stroke: blue; stroke-width:1" />
+<line x1="1964" y1="105" x2="1652" y2="282" style="stroke: green; stroke-width:3"><title>-13</title></line>
+<line x1="1988" y1="105" x2="1688" y2="282" style="stroke: blue; stroke-width:3"><title>-12</title></line>
+<polyline points="1668,290 1668,282 1708,282 1708,290" style="fill:none; stroke: blue; stroke-width:1" />
+<line x1="2036" y1="105" x2="1736" y2="282" style="stroke: green; stroke-width:3"><title>-12</title></line>
+<polyline points="1716,290 1716,282 1756,282 1756,290" style="fill:none; stroke: green; stroke-width:1" />
+<line x1="2084" y1="105" x2="1772" y2="282" style="stroke: red; stroke-width:3"><title>-13</title></line>
+<line x1="2108" y1="105" x2="1796" y2="282" style="stroke: green; stroke-width:3"><title>-13</title></line>
+<line x1="2132" y1="105" x2="1820" y2="282" style="stroke: blue; stroke-width:3"><title>-13</title></line>
+<line x1="2156" y1="105" x2="1856" y2="282" style="stroke: red; stroke-width:3"><title>-12</title></line>
+<polyline points="1836,290 1836,282 1876,282 1876,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="2228" y1="105" x2="1892" y2="282" style="stroke: red; stroke-width:3"><title>-14</title></line>
+<line x1="2252" y1="105" x2="1916" y2="282" style="stroke: green; stroke-width:3"><title>-14</title></line>
+<line x1="2276" y1="105" x2="1940" y2="282" style="stroke: blue; stroke-width:3"><title>-14</title></line>
+<line x1="2300" y1="105" x2="1964" y2="282" style="stroke: red; stroke-width:3"><title>-14</title></line>
+<line x1="2324" y1="105" x2="1988" y2="282" style="stroke: green; stroke-width:3"><title>-14</title></line>
+<line x1="2348" y1="105" x2="2012" y2="282" style="stroke: blue; stroke-width:3"><title>-14</title></line>
+<line x1="2396" y1="105" x2="2036" y2="282" style="stroke: green; stroke-width:3"><title>-15</title></line>
+<line x1="2420" y1="105" x2="2060" y2="282" style="stroke: blue; stroke-width:3"><title>-15</title></line>
+<line x1="2444" y1="105" x2="2096" y2="282" style="stroke: red; stroke-width:3"><title>-14</title></line>
+<polyline points="2076,290 2076,282 2116,282 2116,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="2516" y1="105" x2="2132" y2="282" style="stroke: red; stroke-width:3"><title>-16</title></line>
+<line x1="2540" y1="105" x2="2156" y2="282" style="stroke: green; stroke-width:3"><title>-16</title></line>
+<line x1="2564" y1="105" x2="2192" y2="282" style="stroke: blue; stroke-width:3"><title>-15</title></line>
+<polyline points="2172,290 2172,282 2212,282 2212,290" style="fill:none; stroke: blue; stroke-width:1" />
+<line x1="2588" y1="105" x2="2240" y2="282" style="stroke: red; stroke-width:3"><title>-14</title></line>
+<polyline points="2220,290 2220,282 2260,282 2260,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="2660" y1="105" x2="2288" y2="282" style="stroke: red; stroke-width:3"><title>-15</title></line>
+<polyline points="2268,290 2268,282 2308,282 2308,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="2732" y1="105" x2="2336" y2="282" style="stroke: red; stroke-width:3"><title>-16</title></line>
+<polyline points="2316,290 2316,282 2356,282 2356,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="2780" y1="105" x2="2372" y2="282" style="stroke: blue; stroke-width:3"><title>-17</title></line>
+<line x1="2804" y1="105" x2="2408" y2="282" style="stroke: red; stroke-width:3"><title>-16</title></line>
+<polyline points="2388,290 2388,282 2428,282 2428,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="2828" y1="105" x2="2444" y2="282" style="stroke: green; stroke-width:3"><title>-16</title></line>
+<line x1="2852" y1="105" x2="2480" y2="282" style="stroke: blue; stroke-width:3"><title>-15</title></line>
+<polyline points="2460,290 2460,282 2500,282 2500,290" style="fill:none; stroke: blue; stroke-width:1" />
+<line x1="2876" y1="105" x2="2528" y2="282" style="stroke: red; stroke-width:3"><title>-14</title></line>
+<polyline points="2508,290 2508,282 2548,282 2548,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="2900" y1="105" x2="2576" y2="282" style="stroke: green; stroke-width:3"><title>-13</title></line>
+<polyline points="2556,290 2556,282 2596,282 2596,290" style="fill:none; stroke: green; stroke-width:1" />
+<line x1="2924" y1="105" x2="2624" y2="282" style="stroke: blue; stroke-width:3"><title>-12</title></line>
+<polyline points="2604,290 2604,282 2644,282 2644,290" style="fill:none; stroke: blue; stroke-width:1" />
+<line x1="2972" y1="105" x2="2660" y2="282" style="stroke: green; stroke-width:3"><title>-13</title></line>
+<line x1="2996" y1="105" x2="2696" y2="282" style="stroke: blue; stroke-width:3"><title>-12</title></line>
+<polyline points="2676,290 2676,282 2716,282 2716,290" style="fill:none; stroke: blue; stroke-width:1" />
+<line x1="3044" y1="105" x2="2732" y2="282" style="stroke: green; stroke-width:3"><title>-13</title></line>
+<line x1="3068" y1="105" x2="2756" y2="282" style="stroke: blue; stroke-width:3"><title>-13</title></line>
+<line x1="3092" y1="105" x2="2780" y2="282" style="stroke: red; stroke-width:3"><title>-13</title></line>
+<line x1="3116" y1="105" x2="2804" y2="282" style="stroke: green; stroke-width:3"><title>-13</title></line>
+<line x1="3164" y1="105" x2="2828" y2="282" style="stroke: red; stroke-width:3"><title>-14</title></line>
+<line x1="3188" y1="105" x2="2864" y2="282" style="stroke: green; stroke-width:3"><title>-13</title></line>
+<polyline points="2844,290 2844,282 2884,282 2884,290" style="fill:none; stroke: green; stroke-width:1" />
+<line x1="3260" y1="105" x2="2912" y2="282" style="stroke: green; stroke-width:3"><title>-14</title></line>
+<polyline points="2892,290 2892,282 2932,282 2932,290" style="fill:none; stroke: green; stroke-width:1" />
+<line x1="3284" y1="105" x2="2948" y2="282" style="stroke: blue; stroke-width:3"><title>-14</title></line>
+<line x1="3308" y1="105" x2="2972" y2="282" style="stroke: red; stroke-width:3"><title>-14</title></line>
+<line x1="3332" y1="105" x2="2996" y2="282" style="stroke: green; stroke-width:3"><title>-14</title></line>
+<line x1="3356" y1="105" x2="3020" y2="282" style="stroke: blue; stroke-width:3"><title>-14</title></line>
+<line x1="3380" y1="105" x2="3056" y2="282" style="stroke: red; stroke-width:3"><title>-13</title></line>
+<polyline points="3036,290 3036,282 3076,282 3076,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="3452" y1="105" x2="3104" y2="282" style="stroke: red; stroke-width:3"><title>-14</title></line>
+<polyline points="3084,290 3084,282 3124,282 3124,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="3500" y1="105" x2="3140" y2="282" style="stroke: blue; stroke-width:3"><title>-15</title></line>
+<line x1="3524" y1="105" x2="3164" y2="282" style="stroke: red; stroke-width:3"><title>-15</title></line>
+<line x1="3548" y1="105" x2="3188" y2="282" style="stroke: green; stroke-width:3"><title>-15</title></line>
+<line x1="3572" y1="105" x2="3224" y2="282" style="stroke: blue; stroke-width:3"><title>-14</title></line>
+<polyline points="3204,290 3204,282 3244,282 3244,290" style="fill:none; stroke: blue; stroke-width:1" />
+<line x1="3620" y1="105" x2="3260" y2="282" style="stroke: green; stroke-width:3"><title>-15</title></line>
+<line x1="3668" y1="105" x2="3296" y2="282" style="stroke: red; stroke-width:3"><title>-15</title></line>
+<polyline points="3276,290 3276,282 3316,282 3316,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="3740" y1="105" x2="3344" y2="282" style="stroke: red; stroke-width:3"><title>-16</title></line>
+<polyline points="3324,290 3324,282 3364,282 3364,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="3764" y1="105" x2="3380" y2="282" style="stroke: green; stroke-width:3"><title>-16</title></line>
+<line x1="3788" y1="105" x2="3416" y2="282" style="stroke: blue; stroke-width:3"><title>-15</title></line>
+<polyline points="3396,290 3396,282 3436,282 3436,290" style="fill:none; stroke: blue; stroke-width:1" />
+<line x1="3836" y1="105" x2="3452" y2="282" style="stroke: green; stroke-width:3"><title>-16</title></line>
+<line x1="3860" y1="105" x2="3476" y2="282" style="stroke: blue; stroke-width:3"><title>-16</title></line>
+<line x1="3884" y1="105" x2="3512" y2="282" style="stroke: red; stroke-width:3"><title>-15</title></line>
+<polyline points="3492,290 3492,282 3532,282 3532,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="3956" y1="105" x2="3548" y2="282" style="stroke: red; stroke-width:3"><title>-17</title></line>
+<line x1="3980" y1="105" x2="3572" y2="282" style="stroke: green; stroke-width:3"><title>-17</title></line>
+<line x1="4004" y1="105" x2="3596" y2="282" style="stroke: blue; stroke-width:3"><title>-17</title></line>
+<line x1="4028" y1="105" x2="3620" y2="282" style="stroke: red; stroke-width:3"><title>-17</title></line>
+<line x1="4076" y1="105" x2="3644" y2="282" style="stroke: blue; stroke-width:3"><title>-18</title></line>
+<line x1="4124" y1="105" x2="3668" y2="282" style="stroke: green; stroke-width:3"><title>-19</title></line>
+<line x1="4148" y1="105" x2="3704" y2="282" style="stroke: blue; stroke-width:3"><title>-18</title></line>
+<polyline points="3684,290 3684,282 3724,282 3724,290" style="fill:none; stroke: blue; stroke-width:1" />
+<line x1="4196" y1="105" x2="3740" y2="282" style="stroke: green; stroke-width:3"><title>-19</title></line>
+<line x1="4244" y1="105" x2="3764" y2="282" style="stroke: red; stroke-width:3"><title>-20</title></line>
+<line x1="4268" y1="105" x2="3788" y2="282" style="stroke: green; stroke-width:3"><title>-20</title></line>
+<line x1="4292" y1="105" x2="3812" y2="282" style="stroke: blue; stroke-width:3"><title>-20</title></line>
+<line x1="4316" y1="105" x2="3848" y2="282" style="stroke: red; stroke-width:3"><title>-19</title></line>
+<polyline points="3828,290 3828,282 3868,282 3868,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="4340" y1="105" x2="3884" y2="282" style="stroke: green; stroke-width:3"><title>-19</title></line>
+<line x1="4364" y1="105" x2="3920" y2="282" style="stroke: blue; stroke-width:3"><title>-18</title></line>
+<polyline points="3900,290 3900,282 3940,282 3940,290" style="fill:none; stroke: blue; stroke-width:1" />
+<line x1="4388" y1="105" x2="3968" y2="282" style="stroke: red; stroke-width:3"><title>-17</title></line>
+<polyline points="3948,290 3948,282 3988,282 3988,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="4460" y1="105" x2="4016" y2="282" style="stroke: red; stroke-width:3"><title>-18</title></line>
+<polyline points="3996,290 3996,282 4036,282 4036,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="4508" y1="105" x2="4052" y2="282" style="stroke: blue; stroke-width:3"><title>-19</title></line>
+<line x1="4532" y1="105" x2="4076" y2="282" style="stroke: red; stroke-width:3"><title>-19</title></line>
+<line x1="4580" y1="105" x2="4100" y2="282" style="stroke: blue; stroke-width:3"><title>-20</title></line>
+<line x1="4604" y1="105" x2="4124" y2="282" style="stroke: red; stroke-width:3"><title>-20</title></line>
+<line x1="4628" y1="105" x2="4148" y2="282" style="stroke: green; stroke-width:3"><title>-20</title></line>
+<line x1="4652" y1="105" x2="4172" y2="282" style="stroke: blue; stroke-width:3"><title>-20</title></line>
+<line x1="4676" y1="105" x2="4196" y2="282" style="stroke: red; stroke-width:3"><title>-20</title></line>
+<line x1="4724" y1="105" x2="4220" y2="282" style="stroke: blue; stroke-width:3"><title>-21</title></line>
+<line x1="4748" y1="105" x2="4256" y2="282" style="stroke: red; stroke-width:3"><title>-20</title></line>
+<polyline points="4236,290 4236,282 4276,282 4276,290" style="fill:none; stroke: red; stroke-width:1" />
+<line x1="4820" y1="105" x2="4292" y2="282" style="stroke: red; stroke-width:3"><title>-22</title></line>
+<line x1="4844" y1="105" x2="4316" y2="282" style="stroke: green; stroke-width:3"><title>-22</title></line>
+</svg>
