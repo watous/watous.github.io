@@ -84,8 +84,14 @@ h4,h5,h6 {
 	/*color: #626258;*/
 }
 
-.float {
-	float: left;
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.column {
+	flex-grow: 1;
+	flex-basis: 300px;
 }
 
 .list {
@@ -109,18 +115,6 @@ div.hr {
 
 div.hr hr {display: none;}
 
-#columns {margin: 0;}
-
-#columns li {list-style-type: none;}
-
-#leftcolumn {float: left;width: 48%;font-size: 1em;}
-
-#leftcolumn li {padding-left: 15px;background: url(images/link.gif) no-repeat 0 5px;}
-
-#rightcolumn {float: right;width: 48%;font-size: 1em;}
-
-#rightcolumn li {padding-left: 15px;background: url(images/link.gif) no-repeat 0 5px;}
-
 #footer {
 	clear: left;
 	width: 100%;
@@ -131,9 +125,26 @@ div.hr hr {display: none;}
 
 /*Image and Gallery Styles*/
 
-.imgleft {float: left;margin: 6px 10px 6px 0;}
+img {
+	height: 100%;
+}
 
-.imgright {float: right;margin: 6px 0 0 10px;}
+.imgcolumn {
+	margin: 6px 10px 6px 0;
+	max-width: 100%;
+	object-fit: contain;
+	flex-basis: 300px;
+	flex-grow: 0.25;
+}
+
+div.mejl {
+	margin: 0.5em 0 0.5em 0;
+}
+
+div.mejl img {
+	height: 1.1em; 
+	margin-bottom: -0.2em;
+}
 
 .gallery {margin-right: 5px;border: none; max-width: 94vw; max-height: 240px;}
 
@@ -156,5 +167,3 @@ div.hr hr {display: none;}
 * html #submit {margin-left: 158px;}
 
 .submitbutton {border: 1px solid #939384;background: #f5f5dc url(images/button.gif);letter-spacing: 1px;width: 140px;}
-
-img.mejl {height:1.2em; margin-bottom:-0.2em}
